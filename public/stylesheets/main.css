@@ -1,5 +1,6 @@
 body {
   background-color: #ff815e;
+  font-family: "Helvetica";
 }
 
 h1 {
@@ -10,4 +11,28 @@ h1 {
 p {
   font-family: "Courier New";
   font-size: 40px;
+}
+
+.weather-wrapper {
+  padding: 0 20px;
+}
+
+.temp {
+  margin-bottom: 0;
+}
+
+.summary {
+  margin-top: 0;
+}
+
+.summary-item > * {
+  vertical-align: middle;
+}
+
+.search-wrapper {
+  padding: 20px 0;
+}
+
+.error-message {
+  color: red;
 }
