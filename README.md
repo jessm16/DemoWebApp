@@ -1,6 +1,9 @@
 # DemoWebApp
 
-Check it out at: https://ancient-forest-87393.herokuapp.com/
+Check it out at: http://mighty-ravine-92034.herokuapp.com/
+
+This is a project created at a coding class
+the instructions followed are below
 
 Before starting:
 - [ ] Create Heroku account (primary language = node) - https://signup.heroku.com/
